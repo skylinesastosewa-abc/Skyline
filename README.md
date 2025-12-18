@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;Mobile+%26+Web+Applications;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node+%7C+MongoDB;%26+Web+Applications;Always+Learning+%26+Building" />
 </p>
 
 ---
