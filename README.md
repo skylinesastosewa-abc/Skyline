@@ -123,7 +123,7 @@ I’m always open to:
 * **Sasto Ticketing Platform** – Flight booking system with React, Node.js & MongoDB
 * **Travel Inquiry CRM** – Lead management & automation dashboard
 
-### 📱 Web & Mobile Apps
+### 📱 Web Development
 
 * **Full-Stack Business Website** – React + Express + MongoDB
 
