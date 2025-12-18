@@ -14,7 +14,7 @@
 
 I am a passionate **Full-Stack Developer** focused on building scalable, high-performance web and mobile applications with clean UI and robust backend systems. I enjoy solving real-world problems, learning new technologies, and continuously improving my craft.
 
-* 🔭 Working on **full-stack web & mobile applications**
+* 🔭 Working on **full-stack web applications**
 * 🌱 Learning **system design, cloud infrastructure & scalability**
 * 👯 Open to **open-source, freelance & startup collaborations**
 * 💡 Interested in **SaaS, Travel Tech, Automation & AI-powered apps**
